@@ -1,0 +1,452 @@
+[
+  {
+    "raw_row_text": "6C65\n…\nEBAE\n21,948,053\nthor\n…\n6qdz\n0x32\n…\n89a9\n\t\nAdd\n\t\n0.04590221\nRUNE\nETH.THOR\n\t\nSuccess\n\t\nJul 13 2025 09:48:57 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "ACF2\n…\nCDBD\n21,947,841\n0xe1\n…\nef8c\n0xE1\n…\neF8c\n\t\nSwap\n\t\n0.2\nETH\n604.972569\nUSDT\n\t\nSuccess\n\t\nJul 13 2025 09:27:16 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "50B9\n…\n7F1B\n21,947,545\n0xff\n…\n7a2b\nthor\n…\ncx8p\n\t\nSwap\n\t\n1,000\nUSDC\n4,388.79\nTCY\n\t\nSuccess\n\t\nJul 13 2025 08:56:51 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "17AB\n…\n1670\n21,947,291\n0x32\n…\n89a9\nthor\n…\n6qdz\n\t\nSwap\n\t\n5\nUSDC\n3.186753\nRUNE\n\t\nSuccess\n\t\nJul 13 2025 08:30:52 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "F258\n…\nEFAA\n21,946,789\n0x19\n…\ne4eb\nthor\n…\neeg4\n\t\nSwap\n\t\n20,000\nUSDC\n88,364.43\nTCY\n\t\nSuccess\n\t\nJul 13 2025 07:39:27 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "5257\n…\nEA44\n21,946,649\nthor\n…\nyvkc\nbc1q\n…\n7cgg\n\t\nSwap\n\t\n128,607.85\nTCY\n0.22096936\nBTC\n\t\nSuccess\n\t\nJul 13 2025 07:25:04 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "115F\n…\nA4B5\n21,946,489\nthor\n…\nyvkc\n0x7b\n…\na5db\n\t\nSwap\n\t\n110,597.83\nTCY\n7.98242308\nETH\n\t\nSuccess\n\t\nJul 13 2025 07:08:30 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "FBB6\n…\n8412\n21,945,987\nthor\n…\nyvkc\nbc1q\n…\nz9vq\n\t\nSwap\n\t\n50,000\nTCY\n0.09406171\nBTC\n\t\nSuccess\n\t\nJul 13 2025 06:17:11 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "F900\n…\n9AE2\n21,945,807\ncosm\n…\nqc4m\nqp7l\n…\naxx7\n\t\nSwap\n\t\n89\nATOM\n0.8158132\nBCH\n\t\nSuccess\n\t\nJul 13 2025 05:58:28 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "12AA\n…\nF31E\n21,943,284\nd9hr\n…\ny3ye\n0x4a\n…\n89b6\n\t\nSwap\n\t\n250\nDOGE\n48.983309\nUSDC\n\t\nSuccess\n\t\nJul 13 2025 01:38:59 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "8452\n…\nA3E2\n21,943,191\nd9hr\n…\ny3ye\n0x4a\n…\n89b6\n\t\nSwap\n\t\n250\nDOGE\n49.12873\nUSDT\n\t\nSuccess\n\t\nJul 13 2025 01:29:25 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "D67B\n…\n531E\n21,942,685\nbc1q\n…\nvk32\n0xC3\n…\n1c05\n\t\nSwap\n\t\n0.0055\nBTC\n0.21679012\nETH\n\t\nSuccess\n\t\nJul 13 2025 12:37:38 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "5588\n…\n18B0\n21,942,685\nbc1q\n…\n4qfy\n0x01\n…\nE38b\n\t\nSwap\n\t\n0.56\nBTC\n66,210.06\nUSDC\n\t\nSuccess\n\t\nJul 13 2025 12:37:38 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "2325\n…\n174E\n21,941,624\nbc1q\n…\nmja7\n0x01\n…\nE38b\n\t\nSwap\n\t\n0.5\nBTC\n58,967.28\nUSDC\n\t\nSuccess\n\t\nJul 13 2025 10:48:30 AM (GMT-7)"
+  },
+  {
+    "raw_row_text": "679A\n…\n164E\n21,941,077\nbc1q\n…\n4dgh\n0xe3\n…\nFB97\n\t\nSwap\n\t\n0.42091439\nBTC\n49,548.66\nUSDC\n\t\nSuccess\n\t\nJul 13 2025 09:52:19 AM (GMT-7)"
+  },
+  {
+    "raw_row_text": "B0A5\n…\n0430\n21,939,733\n0x77\n…\n5e72\nbc1q\n…\nuntl\n\t\nSwap\n\t\n5.0021\nETH\n0.12522494\nBTC\n\t\nSuccess\n\t\nJul 13 2025 07:34:30 AM (GMT-7)"
+  },
+  {
+    "raw_row_text": "4478\n…\n33E1\n21,939,609\nqppr\n…\n8jn8\nbc1q\n…\nmq4p\n\t\nSwap\n\t\n1.89767235\nBCH\n0.00806938\nBTC\n\t\nSuccess\n\t\nJul 13 2025 07:21:51 AM (GMT-7)"
+  },
+  {
+    "raw_row_text": "6C0B\n…\n88E1\n21,939,113\n3fec\n…\nplrr\n0x9c\n…\n8840\n\t\nSwap\n\t\n0.00639747\nBTC\n755.435421\nUSDT\n\t\nPending\n\t\nJul 13 2025 06:31:27 AM (GMT-7)"
+  },
+  {
+    "raw_row_text": "C411\n…\n703E\n21,938,968\nthor\n…\nn2fq\n0x8c\n…\n414d\n\t\nSwap\n\t\n13,657\nRUJI\n12,416.91\nUSDC\n\t\nSuccess\n\t\nJul 13 2025 06:16:44 AM (GMT-7)"
+  },
+  {
+    "raw_row_text": "D075\n…\nB58F\n21,937,194\nbc1q\n…\nleam\n0x7F\n…\na4bE\n\t\nSwap\n\t\n0.077\nBTC\n9,004.23\nUSDC\n\t\nSuccess\n\t\nJul 13 2025 03:16:14 AM (GMT-7)"
+  },
+  {
+    "raw_row_text": "64D0\n…\n06BA\n21,936,969\n0xf8\n…\n54d7\nbc1q\n…\n36l3\n\t\nSwap\n\t\n273.085319\nUSDT\n0.0022915\nBTC\n\t\nSuccess\n\t\nJul 13 2025 02:53:26 AM (GMT-7)"
+  },
+  {
+    "raw_row_text": "7917\n…\n2FE4\n21,936,412\nbc1q\n…\nleam\n0x7F\n…\na4bE\n\t\nSwap\n\t\n0.01\nBTC\n1,169.01\nUSDC\n\t\nSuccess\n\t\nJul 13 2025 01:56:52 AM (GMT-7)"
+  },
+  {
+    "raw_row_text": "E78C\n…\n4EDF\n21,934,555\nthor\n…\n9ux4\ncosm\n…\n6n0s\n\t\nSwap\n\t\n1\nRUNE\n0.106488\nATOM\n\t\nSuccess\n\t\nJul 12 2025 10:48:43 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "2273\n…\n0209\n21,934,460\nthor\n…\n9ux4\nltc1\n…\n0m8f\n\t\nSwap\n\t\n1\nRUNE\n0.00523831\nLTC\n\t\nSuccess\n\t\nJul 12 2025 10:39:04 PM (GMT-7)"
+  },
+  {
+    "raw_row_text": "EFBE\n…\n808F\n21,934,287\ncosm\n…\ntmqc\n0xd0\n…\nfB03\n\t\nSwap\n\t\n90\nATOM\n412.229162\nUSDT\n\t\nSuccess\n\t\nJul 12 2025 10:21:34 PM (GMT-7)"
+  },
+  {
+    "affiliate_address": "9A1BAC81A0D45DD2134E1087021521DA678517019C941FE2F89E23BF7413F6A3",
+    "block_height": "916322068471179",
+    "from_address": null,
+    "from_amount": "0.06414127",
+    "from_asset": "BTC",
+    "raw_row_text": "9A1B\n…\nF6A3\n22,068,471\nbc1q\n…\n7x9w\nthor\n…\nrssm\n\t\nSwap\n\t\n0.06414127\nBTC\n0.06412749\nBTC\n\t\nRefunded\n\t\nJul 22 2025 09:02:55 AM (GMT-7)",
+    "status": null,
+    "timestamp": "Jul 22 2025 09:02:55 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "0.06412749",
+    "to_asset": "BTC",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "968862206748741",
+    "from_address": null,
+    "from_amount": "305",
+    "from_asset": "ATOM",
+    "raw_row_text": "9D6A\n…\n88A6\n22,067,487\ncosm\n…\n4fes\nbc1q\n…\nptzy\n\t\nSwap\n\t\n305\nATOM\n0.01277063\nBTC\n\t\nSuccess\n\t\nJul 22 2025 07:24:00 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 22 2025 07:24:00 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "0.01277063",
+    "to_asset": "BTC",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "305188022067377724008003",
+    "from_address": null,
+    "from_amount": "701",
+    "from_asset": "DOGE",
+    "raw_row_text": "3051\n…\n880E\n22,067,377\nd72p\n…\nd4ts\n0x08\n…\n00b3\n\t\nSwap\n\t\n701\nDOGE\n0.04969498\nETH\n\t\nSuccess\n\t\nJul 22 2025 07:12:55 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 22 2025 07:12:55 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "0.04969498",
+    "to_asset": "ETH",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "3717220673671860",
+    "from_address": null,
+    "from_amount": "0.04995",
+    "from_asset": "BTC",
+    "raw_row_text": "3CEF\n…\n71D7\n22,067,367\nbc1q\n…\nl8qx\nthor\n…\nus60\n\t\nSwap\n\t\n0.04995\nBTC\n3,652.16\nRUNE\n\t\nSuccess\n\t\nJul 22 2025 07:11:54 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 22 2025 07:11:54 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "3,652.16",
+    "to_asset": "RUNE",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "15220669861032",
+    "from_address": null,
+    "from_amount": "0.00997",
+    "from_asset": "BTC",
+    "raw_row_text": "CCEA\n…\nE1F5\n22,066,986\nbc1q\n…\n0qyz\nthor\n…\nhf32\n\t\nSwap\n\t\n0.00997\nBTC\n727.07210741\nRUNE\n\t\nSuccess\n\t\nJul 22 2025 06:33:40 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 22 2025 06:33:40 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "727.07210741",
+    "to_asset": "RUNE",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "45663722063804078",
+    "from_address": null,
+    "from_amount": "90",
+    "from_asset": "RUNE",
+    "raw_row_text": "4A56\n…\nE637\n22,063,804\nthor\n…\ngwdm\n0xEC\n…\n7dE8\n\t\nSwap\n\t\n90\nRUNE\n0.03929761\nETH\n\t\nSuccess\n\t\nJul 22 2025 01:14:27 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 22 2025 01:14:27 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "0.03929761",
+    "to_asset": "ETH",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "4137222063048986",
+    "from_address": null,
+    "from_amount": null,
+    "from_asset": null,
+    "raw_row_text": "A41E\n…\n3C72\n22,063,048\ncosm\n…\n98ax\nthor\n…\naa6u\n\t\nSwap\n\t\n1\nATOM\n3.070233\nRUNE\n\t\nSuccess\n\t\nJul 21 2025 11:58:33 PM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 11:58:33 PM (GMT-7)",
+    "to_address": null,
+    "to_amount": null,
+    "to_asset": null,
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "588322059839049381",
+    "from_address": null,
+    "from_amount": "248.764074",
+    "from_asset": "USDT",
+    "raw_row_text": "5FB8\n…\n83FE\n22,059,839\n0xa4\n…\ne938\nbc1q\n…\nxgqp\n\t\nSwap\n\t\n248.764074\nUSDT\n0.00209343\nBTC\n\t\nSuccess\n\t\nJul 21 2025 06:37:38 PM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 06:37:38 PM (GMT-7)",
+    "to_address": null,
+    "to_amount": "0.00209343",
+    "to_asset": "BTC",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "61616220597630333",
+    "from_address": null,
+    "from_amount": "0.0040165",
+    "from_asset": "ETH",
+    "raw_row_text": "6C16\n…\nBC16\n22,059,763\n0x3d\n…\ndd3a\n3Aic\n…\nZhzQ\n\t\nSwap\n\t\n0.0040165\nETH\n0.00011827\nBTC\n\t\nSuccess\n\t\nJul 21 2025 06:30:02 PM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 06:30:02 PM (GMT-7)",
+    "to_address": null,
+    "to_amount": "0.00011827",
+    "to_asset": "BTC",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "1396082205927019077985",
+    "from_address": null,
+    "from_amount": "0.0265",
+    "from_asset": "BTC",
+    "raw_row_text": "1396\n…\nD08B\n22,059,270\nbc1q\n…\nd9gf\n0x77\n…\n98D5\n\t\nSwap\n\t\n0.0265\nBTC\n0.82001847\nETH\n\t\nSuccess\n\t\nJul 21 2025 05:40:39 PM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 05:40:39 PM (GMT-7)",
+    "to_address": null,
+    "to_amount": "0.82001847",
+    "to_asset": "ETH",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "0958022205892503338",
+    "from_address": null,
+    "from_amount": null,
+    "from_asset": null,
+    "raw_row_text": "0958\n…\n02DD\n22,058,925\n0x3d\n…\ndd3a\nthor\n…\nv3r8\n\t\nAdd\n\t\n1\nUSDT\nAVAX.USDT\n\t\nSuccess\n\t\nJul 21 2025 05:06:09 PM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 05:06:09 PM (GMT-7)",
+    "to_address": null,
+    "to_amount": null,
+    "to_asset": null,
+    "tx_hash": null,
+    "type": "Add"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "89289282205890138033",
+    "from_address": null,
+    "from_amount": null,
+    "from_asset": null,
+    "raw_row_text": "8C92\n…\n8928\n22,058,901\nthor\n…\nv3r8\n0x3d\n…\ndd3a\n\t\nAdd\n\t\n0.59500923\nRUNE\nAVAX.USDT\n\t\nSuccess\n\t\nJul 21 2025 05:03:45 PM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 05:03:45 PM (GMT-7)",
+    "to_address": null,
+    "to_amount": null,
+    "to_asset": null,
+    "tx_hash": null,
+    "type": "Add"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "7994622058809038038",
+    "from_address": null,
+    "from_amount": "0.1855",
+    "from_asset": "AVAX",
+    "raw_row_text": "79A9\n…\nE46D\n22,058,809\n0x38\n…\nbded\n0x38\n…\nBdED\n\t\nSwap\n\t\n0.1855\nAVAX\n0.00098762\nETH\n\t\nSuccess\n\t\nJul 21 2025 04:54:32 PM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 04:54:32 PM (GMT-7)",
+    "to_address": null,
+    "to_amount": "0.00098762",
+    "to_asset": "ETH",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "742722205725205184",
+    "from_address": null,
+    "from_amount": "1.331",
+    "from_asset": "ETH",
+    "raw_row_text": "A74D\n…\nE272\n22,057,252\n0xad\n…\n5fda\nbc1q\n…\n8yp4\n\t\nSwap\n\t\n1.331\nETH\n0.04229917\nBTC\n\t\nSuccess\n\t\nJul 21 2025 02:19:08 PM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 02:19:08 PM (GMT-7)",
+    "to_address": null,
+    "to_amount": "0.04229917",
+    "to_asset": "BTC",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "43646117220572151008008",
+    "from_address": null,
+    "from_amount": "94.2482",
+    "from_asset": "LTC",
+    "raw_row_text": "4364\n…\n6117\n22,057,215\nltc1\n…\npqcd\n0x0A\n…\n8008\n\t\nSwap\n\t\n94.2482\nLTC\n10,756.81\nUSDT\n\t\nSuccess\n\t\nJul 21 2025 02:15:24 PM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 02:15:24 PM (GMT-7)",
+    "to_address": null,
+    "to_amount": "10,756.81",
+    "to_asset": "USDT",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "5165220556270815",
+    "from_address": null,
+    "from_amount": "4,000",
+    "from_asset": "DAI",
+    "raw_row_text": "A5F1\n…\n6DA5\n22,055,627\n0xef\n…\ne8ef\nbc1q\n…\nu5mh\n\t\nSwap\n\t\n4,000\nDAI\n0.03376836\nBTC\n\t\nSuccess\n\t\nJul 21 2025 11:35:40 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 11:35:40 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "0.03376836",
+    "to_asset": "BTC",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "198622054694",
+    "from_address": null,
+    "from_amount": null,
+    "from_asset": null,
+    "raw_row_text": "198D\n…\n6DDD\n22,054,694\nthor\n…\nrgup\n\t\nAdd\n\t\n0.3\nRUNE\nBASE.USDC\n\t\nSuccess\n\t\nJul 21 2025 10:01:53 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 10:01:53 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": null,
+    "to_asset": null,
+    "tx_hash": null,
+    "type": "Add"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "46222205449140906",
+    "from_address": null,
+    "from_amount": "18,762",
+    "from_asset": "TCY",
+    "raw_row_text": "FC4B\n…\n622B\n22,054,491\nthor\n…\nm4sl\n0x9b\n…\naB06\n\t\nSwap\n\t\n18,762\nTCY\n1.10944261\nETH\n\t\nSuccess\n\t\nJul 21 2025 09:41:32 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 09:41:32 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "1.10944261",
+    "to_asset": "ETH",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "90014222054411048151",
+    "from_address": null,
+    "from_amount": "1,100.93",
+    "from_asset": "USDC",
+    "raw_row_text": "B9A0\n…\n0142\n22,054,411\n0x48\n…\n1ec5\nbc1q\n…\nqdjn\n\t\nSwap\n\t\n1,100.93\nUSDC\n0.0092536\nBTC\n\t\nSuccess\n\t\nJul 21 2025 09:33:27 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 09:33:27 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "0.0092536",
+    "to_asset": "BTC",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "45728822054244358307795",
+    "from_address": null,
+    "from_amount": "0.03365785",
+    "from_asset": "BTC",
+    "raw_row_text": "4F57\n…\n28C8\n22,054,244\n35w8\n…\nkuy3\n0xDA\n…\n7795\n\t\nSwap\n\t\n0.03365785\nBTC\n1.04565001\nETH\n\t\nSuccess\n\t\nJul 21 2025 09:16:38 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 09:16:38 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "1.04565001",
+    "to_asset": "ETH",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "484112205412604765",
+    "from_address": null,
+    "from_amount": "0.07115384",
+    "from_asset": "AVAX",
+    "raw_row_text": "4C8B\n…\n4D11\n22,054,126\n0xfe\n…\nb476\nthor\n…\n5fpr\n\t\nSwap\n\t\n0.07115384\nAVAX\n7.85237768\nTCY\n\t\nSuccess\n\t\nJul 21 2025 09:04:40 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 09:04:40 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "7.85237768",
+    "to_asset": "TCY",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "901622053797048372",
+    "from_address": null,
+    "from_amount": "0.08589528",
+    "from_asset": "ETH",
+    "raw_row_text": "9D01\n…\nAD6D\n22,053,797\n0x48\n…\nc372\nDPSN\n…\nWkfx\n\t\nSwap\n\t\n0.08589528\nETH\n1,157.53\nDOGE\n\t\nSuccess\n\t\nJul 21 2025 08:30:27 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 08:30:27 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "1,157.53",
+    "to_asset": "DOGE",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "84676220536792007983",
+    "from_address": null,
+    "from_amount": "14,885.96",
+    "from_asset": "RUNE",
+    "raw_row_text": "84E6\n…\nEA76\n22,053,679\nthor\n…\n2ez0\n0xB7\n…\n98a3\n\t\nSwap\n\t\n14,885.96\nRUNE\n6.71284874\nETH\n\t\nSuccess\n\t\nJul 21 2025 08:18:19 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 08:18:19 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "6.71284874",
+    "to_asset": "ETH",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "800220536162007983",
+    "from_address": null,
+    "from_amount": "10,000",
+    "from_asset": "RUNE",
+    "raw_row_text": "8F00\n…\nCEBA\n22,053,616\nthor\n…\n2ez0\n0xB7\n…\n98a3\n\t\nSwap\n\t\n10,000\nRUNE\n4.4987162\nETH\n\t\nSuccess\n\t\nJul 21 2025 08:11:55 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 08:11:55 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "4.4987162",
+    "to_asset": "ETH",
+    "tx_hash": null,
+    "type": "Swap"
+  },
+  {
+    "affiliate_address": "Success",
+    "block_height": "377022053581475",
+    "from_address": null,
+    "from_amount": "36.5",
+    "from_asset": "DOGE",
+    "raw_row_text": "B377\n…\n0FAF\n22,053,581\ndrip\n…\ns47a\nthor\n…\n5fpr\n\t\nSwap\n\t\n36.5\nDOGE\n44.55250709\nTCY\n\t\nSuccess\n\t\nJul 21 2025 08:08:16 AM (GMT-7)",
+    "status": "Success",
+    "timestamp": "Jul 21 2025 08:08:16 AM (GMT-7)",
+    "to_address": null,
+    "to_amount": "44.55250709",
+    "to_asset": "TCY",
+    "tx_hash": null,
+    "type": "Swap"
+  }
+]

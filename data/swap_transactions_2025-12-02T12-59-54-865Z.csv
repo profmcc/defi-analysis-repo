@@ -1,0 +1,7 @@
+swap_id,input_currency,input_amount,input_usd_value,intermediate_currency,intermediate_amount,intermediate_usd_value,output_currency,output_amount,output_usd_value,sender_address,receiver_address,status,commission,age_minutes,age_hours,age_days
+Unknown,,0,0,,,,,0,0,"","",Status,0,0,0,0
+#1410780,ETH,1410780.00890766,31.023,,,,USDC,8630.82,30.84,"https://arbiscan.io/address/0x5daf465a9ccf64deb146eeae9e7bd40d6761c986","https://arbiscan.io/address/0x5daf465a9ccf64deb146eeae9e7bd40d6761c986",Success,31.023,0,0,369
+#1410450,SOL,1410450.12743723,29.9829,,,,ETH,860.00852221,29.7,"https://solscan.io/account/ETpdrEkK8n3jPLysUZCNe1LHdM76GSrbHgAtVpCvWYLp","https://arbiscan.io/address/0x5daf465a9ccf64deb146eeae9e7bd40d6761c986",Success,29.9829,0,0,369
+#1409690,ETH,1409690.01732296,59.9057,,,,BTC,940.00060113,56.07,"https://etherscan.io/address/0x5daf465a9ccf64deb146eeae9e7bd40d6761c986","https://mempool.space/address/bc1q6x5rmfs83c7uy4tm3qccfazjtpsqx2u0n380p5",Success,59.9057,0,0,370
+#1403910,ETH,1403910.01202851,39.9838,,,,SOL,780.1676572,38.62,"https://etherscan.io/address/0x34b5d5153fc1a2107a311ce6412fb69a30d78e15","https://solscan.io/account/CcJGxBGmJ6ezgo8EJfeKxsN4HjCkfJtfJqfEBfEzVwYx",Success,39.9838,0,0,370
+#1384940,ETH,1384940.0113657,39.9324,,,,USDC,9324.49,24.46,"https://etherscan.io/address/0x5daf465a9ccf64deb146eeae9e7bd40d6761c986","https://etherscan.io/address/0x5daf465a9ccf64deb146eeae9e7bd40d6761c986",Success,39.9324,0,0,371

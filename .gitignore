@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optional - uncomment if you don't want to commit data)
+# data/*.csv
+# data/*.json
+# data/*.db
+# data/*.parquet
+
+# Output files
+output/
+results/
+*.log
+
+# API Keys and Secrets
+.env
+.env.local
+config.json
+secrets.json
+*_key.txt
+*_api_key.txt
+
+# Cache files
+*.cache
+cache/
+.coingecko_*_cache.csv
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Large files (optional)
+*.zip
+*.tar.gz
+*.rar
+
