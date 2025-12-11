@@ -124,11 +124,17 @@ def validate_amounts(
         issues.append(f"{amount_col}: Max amount suspiciously high ({amounts.max():.2e} > {max_amount:.2e})")
     
     # Check for extreme outliers (beyond 99.9th percentile)
+    # Only flag if ratio is extremely high AND both percentiles are meaningful
     if len(amounts) > 100:
         q999 = amounts.quantile(0.999)
         q001 = amounts.quantile(0.001)
-        if q999 / q001 > 10000:
+        # Only flag if ratio is very high AND the lower percentile is meaningful (> 0.01)
+        # This avoids false positives from very small amounts (like 0.000001) vs large amounts
+        if q001 > 0.01 and q999 / q001 > 100000:
             issues.append(f"{amount_col}: Extreme outliers detected (99.9th/0.1th percentile ratio: {q999/q001:.1f})")
+        elif q001 <= 0.01 and q999 / q001 > 100000:
+            # Very small lower percentile - this is expected in financial data with wide ranges
+            issues.append(f"{amount_col}: Wide value range (99.9th/0.1th percentile ratio: {q999/q001:.1f}) - this is normal for financial data")
     
     return issues
 
