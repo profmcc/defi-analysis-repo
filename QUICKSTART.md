@@ -62,3 +62,5 @@ git push -u origin master  # or main, depending on your default branch
 
 **Note**: The `.gitignore` file is configured to exclude cache files, virtual environments, and other temporary files. Data files are included by default. If you prefer not to commit data files, uncomment the data file patterns in `.gitignore`.
 
+
+

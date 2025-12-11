@@ -34,3 +34,5 @@ openpyxl>=3.0.0  # For Excel file support
 # Optional but recommended
 ipywidgets>=8.0.0  # For interactive widgets in notebooks
 
+
+
